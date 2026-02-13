@@ -40,7 +40,7 @@ Built a multi‑visual dashboard including:
 - The United States accounted for the highest number of layoffs
 - Amazon had the largest total layoffs among all companies
 
-## 4. Repository Structure
+# 4. Repository Structure
 
 | Folder / File | Purpose | Key Contents |
 |----------------|---------|--------------|
