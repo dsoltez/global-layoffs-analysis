@@ -3,31 +3,31 @@
 - This project analyzes global layoffs from 2020–2023 using a combination of SQL for data cleaning and exploratory analysis and Excel for dashboard visualization. The goal was to transform raw layoff records into a clear, insight‑driven report that highlights trends across companies, industries, countries, and years.
 - The final deliverable is an executive‑style Excel dashboard summarizing key findings through KPI cards, bar charts, a filled map, and a time‑series trend line.
 
-# Tools & Technologies
+# 1. Tools & Technologies
 - SQL (data cleaning, aggregation, EDA)
 - Excel (dashboard design, charts, KPI cards, filled map)
 - CSV files (raw + cleaned datasets)
 
-# Project Workflow
-## 1. Data Cleaning in SQL
+# 2. Project Workflow
+## A. Data Cleaning in SQL
 - Removed duplicates and standardized inconsistent fields
 - Cleaned date formats and normalized company/industry names
 - Filtered invalid or incomplete records
 - Aggregated layoffs by:
-- Company
-- Industry
-- Country
-- Year
-## 2. Exploratory Data Analysis
+  - Company
+  - Industry
+  - Country
+  - Year
+## B. Exploratory Data Analysis
 Using SQL queries, I identified:
 - Top 10 companies by total layoffs
 - Top 10 industries impacted
 - Countries with the highest layoff counts
 - Year‑over‑year layoff trends (2020–2023)
-## 3. Export to Excel
+## C. Export to Excel
 - Exported cleaned and aggregated SQL outputs into structured CSV files
 - Imported the data into Excel for visualization
-## 4. Dashboard Development
+## D. Dashboard Development
 Built a multi‑visual dashboard including:
 - KPI Cards: Total layoffs, peak year, peak country, peak company
 - Bar Charts: Top 10 companies and industries
@@ -35,12 +35,12 @@ Built a multi‑visual dashboard including:
 - Line Chart: Total layoffs by year with trendline
 - Consistent formatting and layout for a clean, executive‑ready presentation
 
-# Key Insights
+# 3. Key Insights
 - 2022 was the peak year for global layoffs
 - The United States accounted for the highest number of layoffs
 - Amazon had the largest total layoffs among all companies
 
-## Repository Structure
+## 4. Repository Structure
 
 | Folder / File | Purpose | Key Contents |
 |----------------|---------|--------------|
@@ -51,12 +51,12 @@ Built a multi‑visual dashboard including:
 - Tech‑related industries dominated the top 10 most impacted sectors
 - Layoffs increased sharply from 2020 to 2022 before leveling off
 
-# How to View the Dashboard
+# 5. How to View the Dashboard
 - Download the Excel file from the dashboard folder
 - Open it in Excel
 - Explore the KPI cards, charts, and map to review insights
 
-# Contact
+# 6. Contact
 If you’d like to discuss the project, feel free to email me at dsoltez13@gmail.com
 
 
