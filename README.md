@@ -59,8 +59,8 @@ Built a multi‑visual dashboard including:
 - Layoffs increased sharply from 2020 to 2022 before leveling off
 
 # 5. How to View the Dashboard
-- Download the Excel file from the dashboard folder
-- Open it in Excel
+- Download the Excel if you want to recreate the dashboard and turn it into your own
+- Download the PDF/PNG to view the Dashboard.
 - Explore the KPI cards, charts, and map to review insights
 
 # 6. Contact
