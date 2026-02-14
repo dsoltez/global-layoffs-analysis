@@ -46,7 +46,7 @@ Built a multi‑visual dashboard including:
 |----------------|---------|--------------|
 | [`data/`](data/) | Cleaned datasets used in analysis | `layoffs.csv`, `Layoffs_Cleaned.csv`, `Total Laid Off By Year.csv`, `Total Laid Off by Company.csv`, `Total Laid Off by Country.csv`, `Total Laid Off by Industry.csv` |
 | [`sql/`](sql/) | SQL queries for the aggregated data | `17. Data Cleaning.sql`, `18. Exploratory Data Analysis.sql`, |
-| [`visuals/`](visuals/) | Excel Dashboard | `Global Layoffs Dashboard.png`, `World Layoffs By Company, Industry, Counry, and Total Yearly Layoffs.pdf`, `World Layoffs By Company, Industry, Counry, and Total Yearly Layoffs.xlsx`  |
+| [`visual/`](visual/) | Excel Dashboard | `Global Layoffs Dashboard.png`, `World Layoffs By Company, Industry, Counry, and Total Yearly Layoffs.pdf`, `World Layoffs By Company, Industry, Counry, and Total Yearly Layoffs.xlsx`  |
 | [`README.md`](README.md) | Full project documentation & overview | — |
 - Tech‑related industries dominated the top 10 most impacted sectors
 - Layoffs increased sharply from 2020 to 2022 before leveling off
