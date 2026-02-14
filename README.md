@@ -1,4 +1,4 @@
-# Global Layoffs Dashboard (2020–2023)
+# Global Layoffs (2020–2023)
 ## Overview
 - This project analyzes global layoffs from 2020–2023 using a combination of SQL for data cleaning and exploratory analysis and Excel for dashboard visualization. The goal was to transform raw layoff records into a clear, insight‑driven report that highlights trends across companies, industries, countries, and years.
 - The final deliverable is an executive‑style Excel dashboard summarizing key findings through KPI cards, bar charts, a filled map, and a time‑series trend line.
