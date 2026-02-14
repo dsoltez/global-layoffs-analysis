@@ -11,9 +11,9 @@
 # 2. Project Workflow
 
 ## A. Questions Explored
-   1. Which countries had the most layoffs?
-   2. Which industries saw the most layoffs?
-   3. Which companies laid the most employees off?
+   1. Which countries had the most layoffs per year?
+   2. Which industries saw the most layoffs pear year?
+   3. Which companies laid the most employees off per year?
    4. Which year saw the most layoffs?
 ## B. Data Cleaning in SQL
 - Removed duplicates and standardized inconsistent fields
