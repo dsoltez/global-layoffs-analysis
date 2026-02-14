@@ -33,6 +33,7 @@ Using SQL queries, I identified:
 ## D. Export to Excel
 - Exported cleaned and aggregated SQL outputs into structured CSV files
 - Imported the data into Excel for visualization
+- Created four seperated visualizations and then combined in the next step to a Dashboard.
 ## E. Dashboard Development
 Built a multi‑visual dashboard including:
 - KPI Cards: Total layoffs, peak year, peak country, peak company
