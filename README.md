@@ -9,7 +9,13 @@
 - CSV files (raw + cleaned datasets)
 
 # 2. Project Workflow
-## A. Data Cleaning in SQL
+
+## A. Questions Explored
+   1. Which countries had the most layoffs?
+   2. Which industries saw the most layoffs?
+   3. Which companies laid the most employees off?
+   4. Which year saw the most layoffs?
+## B. Data Cleaning in SQL
 - Removed duplicates and standardized inconsistent fields
 - Cleaned date formats and normalized company/industry names
 - Filtered invalid or incomplete records
@@ -18,16 +24,16 @@
   - Industry
   - Country
   - Year
-## B. Exploratory Data Analysis
+## C. Exploratory Data Analysis
 Using SQL queries, I identified:
 - Top 10 companies by total layoffs
 - Top 10 industries impacted
 - Countries with the highest layoff counts
 - Year‑over‑year layoff trends (2020–2023)
-## C. Export to Excel
+## D. Export to Excel
 - Exported cleaned and aggregated SQL outputs into structured CSV files
 - Imported the data into Excel for visualization
-## D. Dashboard Development
+## E. Dashboard Development
 Built a multi‑visual dashboard including:
 - KPI Cards: Total layoffs, peak year, peak country, peak company
 - Bar Charts: Top 10 companies and industries
